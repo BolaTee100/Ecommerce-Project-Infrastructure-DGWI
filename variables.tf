@@ -15,7 +15,7 @@ variable "cluster_name" {
 variable "vpc_name" {
   description = "Name tag of the VPC"
   type        = string
-  default     = "smartcloud-vpc"
+  default     = "Pod5-vpc"
 }
 
 variable "vpc_cidr" {
